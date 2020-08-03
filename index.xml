@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>David Stentiford</title>
+    <link>/</link>
+    <description>Recent content on David Stentiford</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <copyright>CC BY-NC-SA 3.0</copyright>
+    <lastBuildDate>Tue, 28 Jul 2020 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title></title>
+      <link>/about-me/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/about-me/</guid>
+      <description>Research Interests: Environmental Humanities | Ocean Humanities | U.S. Environmental Cultures | Multispecies Ethnography
+ David Stentiford is a Ph.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/teaching/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/teaching/</guid>
+      <description>Stanford University 2018-2019 • Head Teaching Assistant; STS 1: The Public Life of Science and Technology
+2017-2018 • Teaching Assistant; STS 123: Making of a Nuclear World: History, Politics, and Culture</description>
+    </item>
+    
+    <item>
+      <title>What does remote ethnography look like?</title>
+      <link>/posts/post-1/</link>
+      <pubDate>Tue, 28 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/posts/post-1/</guid>
+      <description>&amp;ldquo;Doing Ethnography Remotely&amp;rdquo; is a video series I edited and produced in the spring of 2020 for the Center for Global Ethnography.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>/cv/</link>
+      <pubDate>Mon, 27 Jul 2020 00:00:00 +0000</pubDate>
+      
+      <guid>/cv/</guid>
+      <description>Download PDF
+EDUCATION 2021 expected • Ph.D., Modern Thought and Literature; Ph.D., Minor, Anthropology, Stanford University
+2009 • M.A., English, University of Nevada, Reno Literature and Environment Emphasis</description>
+    </item>
+    
+  </channel>
+</rss>
